@@ -11,18 +11,6 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 
 ---
 
-## Equipe
-Desenvolvido por estudantes do curso de Engenharia de Software da UTFPR — Cornélio Procópio:
-
-* Julio Cezar Giandoso Filho
-* Mateus Rubio Durão
-* Rafael Tomé da Silva
-* Silvio Henrique Mendes dos Santos
-  
-Orientador: Prof. Antonio Carlos Fernandes da Silva
-
----
-
 ## Tecnologias
 
 | Camada | Tecnologia |
@@ -68,3 +56,17 @@ Orientador: Prof. Antonio Carlos Fernandes da Silva
 | RNF05 | O sistema deve possuir testes automatizados para validar as regras de movimentação, colisão e conclusão da fase. |
 | RNF06 | O sistema deve ser desenvolvido utilizando TypeScript, HTML e CSS. |
 | RNF07 | O código-fonte deve ser organizado em módulos e possuir documentação suficiente para sua manutenção. |
+
+---
+
+## Equipe
+Desenvolvido por estudantes do curso de Engenharia de Software da UTFPR — Cornélio Procópio:
+
+* Julio Cezar Giandoso Filho
+* Mateus Rubio Durão
+* Rafael Tomé da Silva
+* Silvio Henrique Mendes dos Santos
+  
+Orientador: Prof. Antonio Carlos Fernandes da Silva
+
+---
