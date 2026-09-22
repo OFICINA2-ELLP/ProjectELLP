@@ -28,13 +28,6 @@ Orientador: Prof. Antonio Carlos Fernandes da Silva
 | RF11 | O sistema deve identificar quando o personagem atingir o objetivo e exibir uma mensagem de fase concluída. |
 | RF12 | O sistema deve permitir que o usuário reinicie a fase após uma colisão ou sequência incorreta. |
 
-## Requisitos funcionais opcionais
-
-| Código | Descrição |
-|:---:|---|
-| RF13 | O sistema poderá disponibilizar diferentes fases em ordem crescente de dificuldade. |
-| RF14 | O sistema poderá calcular uma pontuação considerando a quantidade de comandos utilizados. |
-| RF15 | O sistema poderá salvar localmente as fases concluídas e a maior pontuação do usuário. |
 
 ## Requisitos não funcionais
 
