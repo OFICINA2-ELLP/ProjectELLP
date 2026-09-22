@@ -43,6 +43,8 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 | RF10 | O sistema deve informar quando um comando não puder ser executado devido a uma colisão. |
 | RF11 | O sistema deve identificar quando o personagem atingir o objetivo e exibir uma mensagem de fase concluída. |
 | RF12 | O sistema deve permitir que o usuário reinicie a fase após uma colisão ou sequência incorreta. |
+| RF13 | sistema deve permitir a autenticação do usuário utilizando o login com conta do Google |
+
 
 
 ## Requisitos não funcionais
