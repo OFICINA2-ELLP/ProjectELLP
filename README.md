@@ -61,6 +61,14 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 
 ---
 
+## Contribuindo
+Leia o [Guia de Contribuição](docs/CONTRIBUTING.md) antes de começar a desenvolver. Ele cobre:
+
+* Padrão de branches (feat/, fix/, refact/, docs/)
+* Conventional Commits
+* Fluxo de Pull Requests e Code Review
+* Boas práticas de código para NestJS, Next.js e Prisma
+
 ## Equipe
 Desenvolvido por estudantes do curso de Engenharia de Software da UTFPR — Cornélio Procópio:
 
