@@ -44,6 +44,14 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 | RF11 | O sistema deve identificar quando o personagem atingir o objetivo e exibir uma mensagem de fase concluída. |
 | RF12 | O sistema deve permitir que o usuário reinicie a fase após uma colisão ou sequência incorreta. |
 | RF13 | O sistema deve permitir a autenticação do usuário utilizando o login com conta do Google |
+| RF14 | O sistema deve persistir o progresso do usuário autenticado (fase atual/concluída) no banco de dados |
+| RF15 | O sistema deve permitir que o usuário retome o jogo a partir da última fase salva ao logar novamente |
+| RF16 | O sistema deve disponibilizar múltiplas fases com dificuldade progressiva (mapas maiores e/ou mais obstáculos) |
+| RF17 | O sistema deve desbloquear a próxima fase somente após a conclusão da fase atual |
+| RF18 | O sistema deve permitir que o usuário selecione, entre as fases já desbloqueadas, qual deseja jogar |
+| RF19 | O sistema deve exibir um resumo/histórico do desempenho do usuário (ex: fases concluídas, tentativas por fase) |
+| RF20 | O sistema deve permitir logout do usuário autenticado |
+| RF21 | O sistema deve limitar a quantidade máxima de comandos na sequência, conforme a fase (regra de dificuldade) |
 
 
 
