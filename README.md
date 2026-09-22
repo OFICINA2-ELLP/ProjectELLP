@@ -1,4 +1,15 @@
 # ProjectELLP
+Sistema web de apoio ao ensino de lógica desenvolvido para o projeto de extensão ELLP da UTFPR — Cornélio Procópio. A plataforma centraliza a autenticação via Google, a execução de comandos lúdicos de movimentação de personagens em ambiente visual e o acompanhamento do progresso dos usuários em um único ambiente.
+
+---
+
+## Sobre o Projeto
+
+O **ELLP (Ensino Lúdico de Lógica e Programação)** é um projeto de extensão universitária dedicado a levar conhecimentos de ciência, tecnologia e lógica de programação para estudantes da rede pública de ensino da região de Cornélio Procópio. Por meio de oficinas e experiências lúdicas, o projeto busca desmistificar a computação, estimulando a criatividade, a cooperação e a autoconfiança de crianças e adolescentes.
+
+Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integração 2** do curso de **Bacharelado em Engenharia de Software da UTFPR** — Campus Cornélio Procópio, com o objetivo de disponibilizar uma ferramenta web interativa e intuitiva de movimentação visual de personagens, permitindo que os alunos pratiquem conceitos básicos de lógica e acompanhem seu aprendizado de forma centralizada e acessível.
+
+---
 
 ## Equipe
 Desenvolvido por estudantes do curso de Engenharia de Software da UTFPR — Cornélio Procópio:
@@ -10,6 +21,23 @@ Desenvolvido por estudantes do curso de Engenharia de Software da UTFPR — Corn
   
 Orientador: Prof. Antonio Carlos Fernandes da Silva
 
+---
+
+## Tecnologias
+
+| Camada | Tecnologia |
+|--------|-----------|
+| Frontend | Next.js, React, Tailwind CSS, HeroUI |
+| Backend | NestJS, Prisma ORM |
+| Banco de dados | PostgreSQL (Supabase) |
+| Autenticação | JWT + Google OAuth 2.0 (Passport.js) |
+| Testes Automatizados Backend | Jest + Supertest (Unitários e Integração) |
+| Testes Automatizados Frontend | Vitest + React Testing Library |
+| CI/CD | GitHub Actions (Execução automatizada de testes) |
+| Hospedagem Frontend | Vercel |
+| Hospedagem Backend | Railway |
+
+---
 
 ## Requisitos funcionais
 
