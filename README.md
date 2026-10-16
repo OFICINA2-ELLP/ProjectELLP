@@ -94,6 +94,8 @@ Os diagramas abaixo descrevem o sistema. Foram elaborados com PlantUML, Mermaid 
 
 <p align="center"> <img width="901" height="820" alt="Diagrama de BD" src="https://github.com/user-attachments/assets/7e0a6cc3-548c-49f9-8929-af03c28e6110" /> <br> <em>Figura 5 – Diagrama do Banco de Dados (PostgreSQL): usuários, fases, obstáculos, progresso por fase e histórico de tentativas.</em> </p>
 
+---
+
 ## Contribuindo
 Leia o [Guia de Contribuição](docs/CONTRIBUTING.md) antes de começar a desenvolver. Ele cobre:
 
