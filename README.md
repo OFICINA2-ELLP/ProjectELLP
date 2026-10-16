@@ -83,7 +83,7 @@ Os diagramas abaixo descrevem o sistema e são renderizados automaticamente pelo
 <img width="1125" height="827" alt="image" src="https://github.com/user-attachments/assets/2cecd0fa-9902-4642-885b-afa242555233" />
 
 ## Diagrama de Atividades
-<img width="580" height="907" alt="image" src="https://github.com/user-attachments/assets/cb6afdd6-ccb8-4d3f-a80b-e158c380ced9" />
+<img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/cb6afdd6-ccb8-4d3f-a80b-e158c380ced9" />
 <img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/890783ea-57eb-4868-9da1-b024e6c37b7c" />
 
 ## Diagrama de Classes
