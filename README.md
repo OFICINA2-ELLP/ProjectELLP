@@ -71,6 +71,24 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 
 ---
 
+## Documentação e Diagramas
+Os diagramas abaixo descrevem o sistema e são renderizados automaticamente pelo GitHub (Mermaid).
+
+* Diagrama de Casos de Uso
+* Diagrama de Atividades
+* Diagrama de Classes
+* Diagrama do Banco de Dados
+
+## Diagrama de Casos de Uso
+<img width="1125" height="827" alt="image" src="https://github.com/user-attachments/assets/2cecd0fa-9902-4642-885b-afa242555233" />
+
+## Diagrama de Atividades
+<img width="580" height="907" alt="image" src="https://github.com/user-attachments/assets/cb6afdd6-ccb8-4d3f-a80b-e158c380ced9" />
+<img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/890783ea-57eb-4868-9da1-b024e6c37b7c" />
+
+## Diagrama de Classes
+<img width="1747" height="537" alt="image" src="https://github.com/user-attachments/assets/79690eaa-1d9e-4ccf-aff3-35b8c60c32b1" />
+
 ## Contribuindo
 Leia o [Guia de Contribuição](docs/CONTRIBUTING.md) antes de começar a desenvolver. Ele cobre:
 
