@@ -24,6 +24,7 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 | CI/CD | GitHub Actions (Execução automatizada de testes) |
 | Hospedagem Frontend | Vercel |
 | Hospedagem Backend | Railway |
+| Modelagem e Diagramas	| PlantUML, Mermaid, dbdiagram.io |
 
 ---
 
@@ -72,7 +73,7 @@ Este sistema foi desenvolvido como projeto da disciplina de **Oficina de Integra
 ---
 
 ## Documentação e Diagramas
-Os diagramas abaixo descrevem o sistema e são renderizados automaticamente pelo GitHub (Mermaid).
+Os diagramas abaixo descrevem o sistema. Foram elaborados com PlantUML, Mermaid e dbdiagram.io.
 
 * Diagrama de Casos de Uso
 * Diagrama de Atividades
@@ -80,14 +81,18 @@ Os diagramas abaixo descrevem o sistema e são renderizados automaticamente pelo
 * Diagrama do Banco de Dados
 
 ## Diagrama de Casos de Uso
-<img width="1125" height="827" alt="image" src="https://github.com/user-attachments/assets/2cecd0fa-9902-4642-885b-afa242555233" />
+<p align="center"> <img width="1125" height="827" alt="Diagrama de Casos de Uso do sistema ELLP" src="https://github.com/user-attachments/assets/2cecd0fa-9902-4642-885b-afa242555233" /> <br> <em>Figura 1 – Diagrama de Casos de Uso: interações do aluno com o sistema e com o serviço de autenticação do Google.</em> </p>
 
 ## Diagrama de Atividades
-<img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/cb6afdd6-ccb8-4d3f-a80b-e158c380ced9" />
-<img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/890783ea-57eb-4868-9da1-b024e6c37b7c" />
+<p align="center"> <img width="651" height="908" alt="Diagrama de Atividades - parte 1" src="https://github.com/user-attachments/assets/cb6afdd6-ccb8-4d3f-a80b-e158c380ced9" /> <br> <em>Figura 2 – Diagrama de Atividades (parte 1): fluxo do jogador, da autenticação até a montagem da sequência de comandos.</em> </p> <p align="center"> <img width="651" height="908" alt="Diagrama de Atividades - parte 2" src="https://github.com/user-attachments/assets/890783ea-57eb-4868-9da1-b024e6c37b7c" /> <br> <em>Figura 3 – Diagrama de Atividades (parte 2): execução dos comandos, tratamento de colisão, conclusão da fase e salvamento do progresso.</em> </p>
 
 ## Diagrama de Classes
-<img width="1747" height="537" alt="image" src="https://github.com/user-attachments/assets/79690eaa-1d9e-4ccf-aff3-35b8c60c32b1" />
+<p align="center"> <img width="1747" height="537" alt="Diagrama de Classes do domínio do sistema" src="https://github.com/user-attachments/assets/79690eaa-1d9e-4ccf-aff3-35b8c60c32b1" /> <br> <em>Figura 4 – Diagrama de Classes: entidades do domínio (usuário, fase, progresso) e a lógica de execução de comandos (MotorDeJogo).</em> </p>
+
+## Diagrama do Banco de Dados
+
+
+<p align="center"> <img width="901" height="820" alt="Diagrama de BD" src="https://github.com/user-attachments/assets/7e0a6cc3-548c-49f9-8929-af03c28e6110" /> <br> <em>Figura 5 – Diagrama do Banco de Dados (PostgreSQL): usuários, fases, obstáculos, progresso por fase e histórico de tentativas.</em> </p>
 
 ## Contribuindo
 Leia o [Guia de Contribuição](docs/CONTRIBUTING.md) antes de começar a desenvolver. Ele cobre:
