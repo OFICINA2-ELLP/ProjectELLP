@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Uso: DRY_RUN=1 ./criar-issues.sh   (apenas imprime)
-#      REPO=usuario/ProjectELLP ./criar-issues.sh
+#      REPO=OFICINA2-ELLP/ProjectELLP ./criar-issues.sh
 # Requer: gh auth login. Troque M1..M4 pelos @usuarios GitHub reais.
 set -euo pipefail
-REPO="${REPO:-usuario/ProjectELLP}"
+REPO="${REPO:-OFICINA2-ELLP/ProjectELLP}"
 M1="${M1:-membro1}"; M2="${M2:-membro2}"; M3="${M3:-membro3}"; M4="${M4:-membro4}"
 run() { if [ "${DRY_RUN:-0}" = 1 ]; then echo "[dry] $*"; else "$@"; fi; }
 
